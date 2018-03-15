@@ -1,0 +1,24 @@
+{
+  "name": "devtalk",
+  "version": "1.0.0",
+  "description": "demo project to devtalk on typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rimraf out/*.*",
+    "compile:ts": "tsc -w -p .",
+    "compile": "npm run compile:ts"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "mike stittleburg",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.1"
+  },
+  "devDependencies": {
+    "rimraf": "^2.5.4",
+    "typescript": "^2.1.0-dev.20160919"
+  }
+}
