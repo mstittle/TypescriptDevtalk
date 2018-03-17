@@ -17,7 +17,6 @@ Mike is an ADP Principle Application Developer. Mike works out of the Alpharetta
 
 ## Resources
 * Slides: [ TypeScript tech talk](Typescript.pdf)
-* [TypeScript Homepage](https://www.typescriptlang.org/)
 * [Type Definitions Homepage](http://definitelytyped.org/)
  
 
